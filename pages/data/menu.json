@@ -1,0 +1,8 @@
+[
+  { "title": "Accueil", "link": "/accueil" },
+  { "title": "Nos vendeurs", "link": "/vendeur" },
+  { "title": "Qui sommes nous ?", "link": "/qui-sommes-nous" },
+  { "title": "Faqs", "link": "/faq" },
+  { "title": "Contact", "link": "/contact" },
+  { "title": "Cadeau weekend", "link": "/cadeau" }
+]
